@@ -1,1 +1,0 @@
-max.txt,abc.txt,ton.txt,blur.txt must all be cleared before starting game
