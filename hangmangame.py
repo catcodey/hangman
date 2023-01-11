@@ -275,6 +275,8 @@ def ti():
     
 
     '''
+    COMMENTED COMMENTED COMMENTED
+    
     frame=tk.Frame(sc1,bg="red")
     frame.pack()
     
@@ -330,7 +332,10 @@ def ti():
     button25=tk.Button(frame,text="y")
     button25.grid(row=0,column=24)
     button26=tk.Button(frame,text="z")
-    button26.grid(row=0,column=25)'''
+    button26.grid(row=0,column=25)
+    
+    COMMENTED COMMENTED COMMENTED
+    '''
     
     
 
